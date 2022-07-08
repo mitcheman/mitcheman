@@ -2,7 +2,7 @@
 JavaScript | TypeScript
 
 #### Frontend Development
-React | NextJS | Angular | jQuery | HTML5 | CSS
+React | Next.js | Angular | jQuery | HTML5 | CSS
 
 #### Backend Development
 NodeJS | Express | Koa | AWS
