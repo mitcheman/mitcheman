@@ -11,7 +11,7 @@ NodeJS | Express | Koa | AWS
 MongoDB | Mongoose | PostgreSQL | Sequelize | GraphQL | AWS AppSync | AWS DynamoDB | AWS RDS
 
 #### Infrastructure
-AWS | Vercel | VMware | Terraform | Packer | Vault | Ansible | CentOS | RedHat | Windows
+AWS | Vercel | VMware | Terraform | Packer | Vault | Kubernetes | Ansible | CentOS | RedHat | Windows
 
 #### Collaboration
 Jira (scrum/kanban} | Confluence | Git
