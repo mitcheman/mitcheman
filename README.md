@@ -1,5 +1,5 @@
 #### Languages
-JavaScript | TypeScript
+JavaScript | TypeScript | Python
 
 #### Frontend Development
 React | Next.js | Angular | jQuery | HTML5 | CSS
